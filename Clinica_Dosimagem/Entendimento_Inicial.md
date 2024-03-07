@@ -11,9 +11,9 @@ Instaurar um passo a passo para o “tratamento” da imagem, de forma que fique
 
 # 5W2H
 - O quê?
-        A interface será remodelada para ficar mais intuitiva e utilizável por usuários sem treinamento/conhecimento
+        -A interface será remodelada para ficar mais intuitiva e utilizável por usuários sem treinamento/conhecimento
 - Quem?
-        A clínica, os medicos e os pacientes
+        -A clínica, os medicos e os pacientes
 - Onde?
 
 - Por quê?
@@ -21,6 +21,6 @@ Instaurar um passo a passo para o “tratamento” da imagem, de forma que fique
 - Quando?
 
 - Como?
-        Nos do grupo NoCode Brothers iremos trabalhar juntos, e com nossas experiencias vamos aprimorar a área de interação, contribuindo
+        -Nos do grupo NoCode Brothers iremos trabalhar juntos, e com nossas experiencias vamos aprimorar a área de interação, contribuindo
   com as dificuldades que os usuarios passam
 - Quanto?
