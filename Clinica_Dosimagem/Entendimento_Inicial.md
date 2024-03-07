@@ -11,7 +11,7 @@ Instaurar um passo a passo para o “tratamento” da imagem, de forma que fique
 
 # 5W2H
 - O quê?
-
+        A interface será remodelada para ficar mais intuitiva e utilizável por usuários sem treinamento/conhecimento
 - Quem?
         A clínica, os medicos e os pacientes
 - Onde?
