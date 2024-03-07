@@ -13,7 +13,7 @@ Instaurar um passo a passo para o “tratamento” da imagem, de forma que fique
 - O quê?
 
 - Quem?
-
+        A clínica, os medicos e os pacientes
 - Onde?
 
 - Por quê?
