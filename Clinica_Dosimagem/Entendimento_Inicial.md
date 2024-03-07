@@ -21,5 +21,6 @@ Instaurar um passo a passo para o “tratamento” da imagem, de forma que fique
 - Quando?
 
 - Como?
-
+        Nos do grupo NoCode Brothers iremos trabalhar juntos, e com nossas experiencias vamos aprimorar a área de interação, contribuindo
+  com as dificuldades que os usuarios passam
 - Quanto?
