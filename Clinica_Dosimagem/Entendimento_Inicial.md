@@ -7,7 +7,8 @@ A sistema atual é complicado para os usuários.
 Simplificar o uso do sistema por meio de um fluxo intuitivo.
 
 ## Propósito:
-O propósito do sistema é oferecer praticidade no envio de forma digital de seus exames.
+O propósito do sistema é oferecer praticidade no envio de forma digital de seus exames e o acompanhamento do mesmo.
+Dessa forma os clientes economizam tempo de ir nas clínicas fazer algo que pode ser feito digitalmente.
 
 ## Fluxo:
 Implementar um passo a passo para o tratamento da imagem, tornando-o fácil de entender para usuários sem experiência técnica.
