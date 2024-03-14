@@ -25,7 +25,7 @@ Dessa forma os clientes economizam tempo de ir nas clínicas fazer algo que pode
 - Quem? Projeto: NoCode Brothers, alunos de diversos cursos de tecnologia que estão cursando a disciplina de Projeto Front-End.
         Sistema: O sistema será usado pela equipe da dosimagem.
 - Onde? Projeto: Principalmente online, com reuniões presenciais no campus Ibmec Barra.
-        Sistema: 
+        Sistema: O sistema DosImagem será utilizado principalmente nas instalações da Dosimagem, onde as imagens são recebidas, tratadas e reenviadas aos clientes. Além disso, a interface front-end será acessada online pelos usuários para enviar e acompanhar seus exames. 
 - Por que? Projeto: Auxiliar a Dosimagem nas dificuldades de desenvolvimento de sua interface, reduzindo custos, tempo e envolvendo alunos em aprendizado prático, mantendo a qualidade.
            Sistema: A interface de gerenciamento e tratamento de imagens utilizada atualmente é muito complexa e nada intuitiva, demandando aprimoramento.
 - Quando? Entrega da versão final dois dias antes da apresentação para a banca. O tempo será dividido conforme a complexidade e quantidade de subproblemas.
