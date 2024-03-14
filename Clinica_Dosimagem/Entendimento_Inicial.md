@@ -1,7 +1,7 @@
 # Projeto DosImagem
 
 ## Problema:
-A sistems atual é complicado para os usuários.
+A sistema atual é complicado para os usuários.
 
 ## Objetivo:
 Simplificar o uso do sistema por meio de um fluxo intuitivo.
