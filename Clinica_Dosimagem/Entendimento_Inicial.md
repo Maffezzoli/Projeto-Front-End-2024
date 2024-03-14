@@ -6,15 +6,15 @@ A sistema atual é complicado para os usuários.
 ## Objetivo:
 Simplificar o uso do sistema por meio de um fluxo intuitivo.
 
-## Propósito:
-O propósito do sistema é oferecer praticidade no envio de forma digital de seus exames e o acompanhamento do mesmo.
-Dessa forma os clientes economizam tempo de ir nas clínicas fazer algo que pode ser feito digitalmente.
-
 ## Fluxo:
 Implementar um passo a passo para o tratamento da imagem, tornando-o fácil de entender para usuários sem experiência técnica.
 
 ## O Sistema:
 O sistema da dosimagem se baseia no tratamento de imagens enviadas por um cliente, sendo assim, a imagem é recebida por meio da interface front-end para ser posteriormente tratada, e reenviada ao cliente.
+
+## Propósito:
+O propósito do sistema é oferecer praticidade no envio de forma digital de seus exames e o acompanhamento do mesmo.
+Dessa forma os clientes economizam tempo de ir nas clínicas fazer algo que pode ser feito digitalmente.
 
 ## Dúvidas:
 - Integração com o Back-End
