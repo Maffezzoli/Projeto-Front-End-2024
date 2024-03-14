@@ -1,10 +1,10 @@
 # Projeto DosImagem
 
 ## Problema:
-A interface atual é complicada para os usuários.
+A sistems atual é complicado para os usuários.
 
 ## Objetivo:
-Simplificar o uso da interface por meio de um fluxo intuitivo.
+Simplificar o uso do sistema por meio de um fluxo intuitivo.
 
 ## Fluxo:
 Implementar um passo a passo para o tratamento da imagem, tornando-o fácil de entender para usuários sem experiência técnica.
