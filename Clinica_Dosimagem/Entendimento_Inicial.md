@@ -22,7 +22,7 @@ Dessa forma, os clientes economizam tempo de ir às clínicas para realizar tare
 # 5W2H
 
 - O quê? Projeto: Remodelação da interface gráfica para torná-la mais intuitiva e amigável para usuários não técnicos.
-         Sistema: É um sistema que gerencia os usuários (clínicas) e relatórios. 
+         Sistema: É um sistema que gerencia os exames enviados pelos usuários (clínicas) e relatórios. 
   
 - Quem? Projeto: NoCode Brothers, alunos de diversos cursos de tecnologia que estão cursando a disciplina de Projeto Front-End.
         Sistema: O sistema será usado pela equipe da Dosimagem.
