@@ -6,9 +6,10 @@ RF1. **O sistema deve ter interface de usuário intuitiva:**
 
 RF2. **O sistema deve ter possuir fluxo de navegação suave:**
    - Os usuários devem poder transitar facilmente entre as diferentes seções da aplicação.
-
+   - O fluxo de navegação deve ser claro e direto, minimizando o número de cliques necessários para acessar as funcionalidades principais e aumentando a eficiência de trabalho dos funcionários.
    - O design da aplicação deve ser esteticamente agradável e atualizado para refletir as tendências de design contemporâneas.
    - Deve haver uma atenção especial para o uso de cores, tipografia e elementos visuais para criar uma experiência atraente para o usuário.
+
 ## Requisitos Não Funcionais:
 
 RNF1. **O sistema deve possuir bom desempenho:**
@@ -28,6 +29,9 @@ RNF5. **O sistema deve ser fácilmente testável:**
    - A aplicação deve ser testada de forma abrangente para garantir que todas as funcionalidades estejam funcionando conforme o esperado.
    - Deve haver uma estratégia de testes que cubra tanto os casos de uso típicos quanto os cenários de exceção.
 
+RNF6. **O sistema deve possuir compatibilidade com os padrões web:**
+   - O código da aplicação deve seguir os padrões e diretrizes da web, como HTML5, CSS3 e JavaScript ECMAScript 6.
+   - Deve ser compatível com as especificações mais recentes para garantir a interoperabilidade e a sustentabilidade, evitando que se torne legado a curto ou médio prazo.
 
 RNF7. **O sistema deve ser escalável:**
    - A aplicação deve ser projetada para lidar com um potencial aumento no número de usuários e volume de dados no futuro.
