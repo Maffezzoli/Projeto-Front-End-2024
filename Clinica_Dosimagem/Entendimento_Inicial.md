@@ -24,13 +24,13 @@ Dessa forma, os clientes economizam tempo de ir às clínicas para realizar tare
 - O quê?
   - Projeto: Remodelação da interface gráfica para torná-la mais intuitiva e amigável para usuários não técnicos.
 
-  - Sistema: É um sistema que analisa os exames enviados pelos usuários e também faz o gerenciamento das (clínicas) e dos relatórios. 
+  - Sistema: O sistema deve analisar os exames enviados pelos usuários e também fazer o gerenciamento das (clínicas) e dos relatórios. 
   
 - Quem?
 
   - Projeto: NoCode Brothers, alunos de diversos cursos de tecnologia que estão cursando a disciplina de Projeto Front-End.
 
-  - Sistema: O sistema será usado pela equipe da Dosimagem.
+  - Sistema: O sistema será usado pela equipe da Dosimagem, técnicos ou não.
   
 - Onde?
 
