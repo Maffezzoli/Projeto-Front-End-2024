@@ -35,15 +35,9 @@ RNF5. **O sistema deve ser fácilmente testável:**
    - A aplicação deve ser testada de forma abrangente para garantir que todas as funcionalidades estejam funcionando conforme o esperado.
    - Deve haver uma estratégia de testes que cubra tanto os casos de uso típicos quanto os cenários de exceção.
 
-<<<<<<< HEAD
-6. **Compatibilidade com Padrões Web:**
-   - O código da aplicação deve seguir os padrões e diretrizes da web, como HTML, CSS e JavaScript.
-   - Deve ser compatível com as especificações mais recentes para garantir a interoperabilidade e a sustentabilidade a longo prazo.
-=======
 RNF6. **O sistema deve possuir compatibilidade com os padrões web:**
    - O código da aplicação deve seguir os padrões e diretrizes da web, como HTML5, CSS3 e JavaScript ECMAScript 6.
    - Deve ser compatível com as especificações mais recentes para garantir a interoperabilidade e a sustentabilidade, evitando que se torne legado a curto ou médio prazo.
->>>>>>> main
 
 RNF7. **O sistema deve ser escalável:**
    - A aplicação deve ser projetada para lidar com um potencial aumento no número de usuários e volume de dados no futuro.
