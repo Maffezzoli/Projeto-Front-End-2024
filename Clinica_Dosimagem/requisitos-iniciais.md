@@ -26,7 +26,7 @@ RNF1. **O sistema deve possuir bom desempenho:**
 RNF2. **O sistema deve possuir boa compatibilidade:**
    - A aplicação deve ser compatível com os principais navegadores da web, incluindo Google Chrome, Mozilla Firefox, Safari e Microsoft Edge.
 
-RNF4. **O sistema deve ser capaz de sofrer manutenção:**
+RNF3. **O sistema deve ser capaz de sofrer manutenção:**
    - O código-fonte deve ser bem estruturado, modular e de fácil compreensão, facilitando futuras atualizações e manutenção.
    - Deve-se adotar práticas de desenvolvimento que promovam a reutilização de código e a escalabilidade da aplicação.
    - Deve ser fornecida documentação abrangente para auxiliar no desenvolvimento, implantação e manutenção da aplicação. Isso inclui documentação do código-fonte, guias de instalação e instruções para a resolução de problemas comuns.
@@ -43,7 +43,7 @@ RNF7. **O sistema deve ser escalável:**
    - A aplicação deve ser projetada para lidar com um potencial aumento no número de usuários e volume de dados no futuro.
    - Deve ser possível adicionar novas funcionalidades e expandir a aplicação sem grandes modificações na arquitetura existente.
   
-RNF9. **O sistema deve ser suficientemente seguro:**
+RNF8. **O sistema deve ser suficientemente seguro:**
    - Deve seguir as normas ISO/IEC 27001
    - As informações dos pacientes e quaisquer dados sensíveis devem ser protegidos por medidas de segurança adequadas, como criptografia de dados e autenticação de usuário.
    - Por exemplo, utilizar as últimas versões das ferramentas de desenvolvimento e prevenir SQL Injection nas entradas de dados para que o Front-End contribua na segurança do sistema como um todo.
