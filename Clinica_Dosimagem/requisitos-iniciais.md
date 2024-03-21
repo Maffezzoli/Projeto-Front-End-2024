@@ -47,7 +47,7 @@
    - Deve haver uma estratégia de testes que cubra tanto os casos de uso típicos quanto os cenários de exceção.
 
 6. **Compatibilidade com Padrões Web:**
-   - O código da aplicação deve seguir os padrões e diretrizes da web, como HTML5, CSS3 e JavaScript ECMAScript 6.
+   - O código da aplicação deve seguir os padrões e diretrizes da web, como HTML, CSS e JavaScript.
    - Deve ser compatível com as especificações mais recentes para garantir a interoperabilidade e a sustentabilidade a longo prazo.
 
 7. **Escalabilidade:**
