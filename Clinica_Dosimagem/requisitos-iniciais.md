@@ -12,7 +12,7 @@
    - O fluxo de navegação deve ser claro e direto, minimizando o número de cliques necessários para acessar as funcionalidades principais.
 4. **Organização inteligente dos serviços**
    - Atualmente a api da dosimagem conta com uma aba de "Services", que contém todos os 5 tipos de formulários para cada serviço deles,
-      No entanto, isso gera um design "caótico" no design do site, confuso e nada intuítivo.
+      no entanto, isso gera um design "caótico" no design do site, confuso e nada intuítivo.
    - Construção de uma única aba "genérica" para gerenciar os serviços, de forma que o usuário não precisa ficar "garimpando" o seu objetivo pela api.
 
 5. **Design Atraente e Moderno:**
