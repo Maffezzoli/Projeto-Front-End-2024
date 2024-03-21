@@ -31,6 +31,7 @@
 1. **Performance:**
    - A aplicação deve carregar rapidamente, garantindo uma experiência de usuário fluida e sem atrasos perceptíveis.
    - As interações do usuário, como clicar em botões e preencher formulários, devem ter resposta imediata.
+   - - O sistema deve receber e processar os exames enviados pelos usuários de uma forma relativamente rapida.
 
 2. **Compatibilidade com Acessibilidade:**
    - A aplicação deve ser compatível com os principais navegadores da web, incluindo Google Chrome, Mozilla Firefox, Safari e Microsoft Edge.
