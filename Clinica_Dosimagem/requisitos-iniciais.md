@@ -11,7 +11,7 @@ RF3. **O sistema deve ter possuir fluxo de navegação suave:**
    - Os usuários devem poder transitar facilmente entre as diferentes seções da aplicação.
    - O fluxo de navegação deve ser claro e direto, minimizando o número de cliques necessários para acessar as funcionalidades principais e aumentando a eficiência de trabalho dos funcionários.
 
-RF4. **O sistema deve possuir organização inteligente dos serviços**
+RF4. **O sistema deve possuir organização inteligente dos serviços:**
    - Atualmente a api da dosimagem conta com uma aba de "Services", que contém todos os 5 tipos de formulários para cada serviço deles,
       no entanto, isso gera um design "caótico" no design do site, confuso e nada intuítivo.
 
@@ -26,7 +26,7 @@ RNF1. **O sistema deve possuir bom desempenho:**
    - As interações do usuário, como clicar em botões e preencher formulários, devem ter resposta imediata.
    - - O sistema deve receber e processar os exames enviados pelos usuários de uma forma relativamente rapida.
 
-RNF2. **O sistema deve possuir boa compatibilidade**
+RNF2. **O sistema deve possuir boa compatibilidade:**
    - A aplicação deve ser compatível com os principais navegadores da web, incluindo Google Chrome, Mozilla Firefox, Safari e Microsoft Edge.
 
 RNF4. **O sistema deve ser capaz de sofrer manutenção:**
@@ -42,7 +42,7 @@ RNF6. **O sistema deve possuir compatibilidade com os padrões web:**
    - O código da aplicação deve seguir os padrões e diretrizes da web, como HTML5, CSS3 e JavaScript ECMAScript 6.
    - Deve ser compatível com as especificações mais recentes para garantir a interoperabilidade e a sustentabilidade, evitando que se torne legado a curto ou médio prazo.
 
-RNF7. **O sistema deve ser escalável**
+RNF7. **O sistema deve ser escalável:**
    - A aplicação deve ser projetada para lidar com um potencial aumento no número de usuários e volume de dados no futuro.
    - Deve ser possível adicionar novas funcionalidades e expandir a aplicação sem grandes modificações na arquitetura existente.
   
