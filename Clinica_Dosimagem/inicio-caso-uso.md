@@ -8,7 +8,7 @@
 | **Pré-condições:**  O cliente selecionou o tipo de serviço desejado. |
 | **Pós-condições:** Orçamento é gerado e exibido ao cliente. |
 
-| **UC02 - Aceitar Orçamento e Efetuar Pagamento** |
+| **UC02 - Aceitar Orçamento e Receber Pagamento** |
 |---|
 | **Ator:** Funcionário |
 | **Descrição:** Neste caso de uso, o funcionário aceita o orçamento previamente enviado ao cliente e registra o pagamento para iniciar o processo de tratamento das imagens. |
