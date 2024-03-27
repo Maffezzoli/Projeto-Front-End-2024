@@ -40,7 +40,7 @@
 | **Pré-condições:** <br> - Funcionário realizou o tratamento das imagens. <br> - Imagens foram tratadas com sucesso. |
 | **Pós-condições:** Resultado do tratamento é enviado ao cliente. |
 
-| **UC06 - Recebimento do Resultado ** |
+| **UC06 - Recebimento do Resultado** |
 |---|
 | **Ator:** Cliente |
 | **Descrição:** Nesta etapa final, o cliente recebe o resultado do exame por meio da plataforma, através de um arquivo PDF, com o que se foi concluído pelo software externo. |
