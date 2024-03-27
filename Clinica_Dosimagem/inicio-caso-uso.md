@@ -48,3 +48,8 @@
 | **Pré-condições:**  O cliente recebeu o exame por meio do site. |
 | **Pós-condições:** O processo foi finalizado. |
 
+
+
+
+![casos_de_uso_PFE](https://github.com/Maffezzoli/Projeto-Front-End-2024/assets/116568541/3526dcda-7864-43b8-9d22-c22700210c95)
+
