@@ -5,5 +5,6 @@
 - Os funcionários devem poder baixar as imagens enviadas pelo cliente, em formato de pdf.
 - 
 ## Requisitos Funcionais:
-**RF01**: O sistema deve organizar os 4 tipos de formulários(Calibrations, Clinic Dosimetries, Preclinic Dosimetries, Radiosymoviorthesis), de forma a descomplicar a navegação.
-**RF02**: 
+**RF01**: O sistema deve ter uma area que dedicada a organizar os 4 tipos de formulários(Calibrations, Clinic Dosimetries, Preclinic Dosimetries, Radiosymoviorthesis), de forma a descomplicar a navegação. <br>
+**RF02**: Atualização do andamento do pedido ->Em análise -> Sendo processado -> Concluído. <br>
+**RF03**: Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02).
