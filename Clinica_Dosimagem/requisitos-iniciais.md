@@ -16,4 +16,3 @@
    - O design da aplicação deve ser esteticamente agradável e atualizado para refletir as tendências de design contemporâneas.
    - Deve haver uma atenção especial para o uso de cores, tipografia e elementos visuais para criar uma experiência atraente para o usuário.
      
-## Requisitos Não Funcionais:
