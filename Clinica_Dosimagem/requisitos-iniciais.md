@@ -9,7 +9,7 @@
    - O fluxo de navegação deve ser claro e direto, minimizando o número de cliques necessários para acessar as funcionalidades principais e aumentando a eficiência de trabalho dos funcionários.
 
 **RF3. O sistema deve possuir organização inteligente dos serviços:**
-   - Atualmente a api da dosimagem conta com uma aba de "Services", que contém todos os 5 tipos de formulários para cada serviço deles,
+   - Atualmente a api da dosimagem conta com uma aba de "Services", que contém todos os 4 tipos de formulários (Calibrations, Clinic Dosimetries, Preclinic Dosimetries, Radiosymoviorthesis) para cada serviço deles,
       no entanto, isso gera um design "caótico" no design do site, confuso e nada intuítivo.
 
 **RF4. O sistema deve ter um design atraente e moderno:**
