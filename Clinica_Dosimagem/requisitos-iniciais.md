@@ -1,18 +1,14 @@
+## Requisitos em linguagem natural
+- O sistema deve ser simples a ponto que funcionários inexperientes possam operá-lo.
+- Interface amigável e intuitiva.
+- O sistema deve permitir que os funcionários visualizem os formulários enviados pelos clientes por meio da aba "service".
+- Os funcionários devem poder baixar as imagens enviadas pelo cliente, em formato de pdf.
+- O sistema deve ser capaz de enviar o laudo da imagem tratada para o cliente.
 ## Requisitos Funcionais:
+**RF01**: O sistema deve ter uma area que dedicada a organizar os 4 tipos de formulários(Calibrations, Clinic Dosimetries, Preclinic Dosimetries, Radiosymoviorthesis), de forma a descomplicar a navegação. <br>
+**RF02**: Atualização do andamento do pedido em 3 estados: ->Em análise -> Sendo processado -> Concluído. <br>
+**RF03**: Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02). <br>
+**RF04**: Envio do laudo final para o cliente, por meio de uma seção dedicada a isso.
 
-**RF1. O sistema deve ter interface de usuário intuitiva:**
-   - Os usuários devem poder transitar com eficiência e fluidez entre as diferentes seções da aplicação.
-   - Os elementos da interface devem ser organizados de forma lógica e intuitiva.
-   - O fluxo de navegação deve ser claro e direto, minimizando o número de cliques necessários para acessar as funcionalidades principais e aumentando a eficiência de trabalho dos funcionários.
-
-**RF2. O sistema deve possuir organização inteligente da aba de serviços:**
-   - Atualmente a api da dosimagem conta com uma aba de "Services", que contém todos os 5 tipos de formulários para cada serviço deles,
-      no entanto, isso gera um design "caótico" no design do site, confuso e nada intuítivo.
-
-**RF3. O sistema deve ter um design atraente e moderno:**
-   - O design da aplicação deve ser esteticamente agradável e atualizado para refletir as tendências de design contemporâneas.
-   - Deve haver uma atenção especial para o uso de cores, tipografia e elementos visuais para criar uma experiência atraente para o usuário, sem poluição visual.
-     
-## Requisitos Não Funcionais:
-**RNF1. O sistema deve ser desenvolvido com tecnologias específicas:**
-   - Deve usar HTML, CSS e Javascript com o framework ReactJS.
+## Requisitos não Funcionais:
+**RNF01**: O sistema ser feito para utilizar a api ja existente da Dosimagem.
