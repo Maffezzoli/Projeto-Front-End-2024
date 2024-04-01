@@ -1,6 +1,6 @@
 ## Requisitos em linguagem natural
 - O sistema deve ser simples a ponto que funcionários inexperientes possam operá-lo.
-- Interface amigável, intuitiva e sem poluição visual.
+- Interface amigável e intuitiva.
 - O sistema deve permitir que os funcionários visualizem os formulários enviados pelos clientes por meio da aba "service".
 - Os funcionários devem poder baixar as imagens enviadas pelo cliente, em formato de pdf.
 - O sistema deve ser capaz de enviar o laudo da imagem tratada para o cliente.
@@ -9,6 +9,5 @@
 **RF02**: Atualização do andamento do pedido em 3 estados: ->Em análise -> Sendo processado -> Concluído. <br>
 **RF03**: Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02). <br>
 **RF04**: Envio do laudo final para o cliente, por meio de uma seção dedicada a isso.
-
 ## Requisitos não Funcionais:
 **RNF01**: O sistema ser feito para utilizar a api ja existente da Dosimagem.
