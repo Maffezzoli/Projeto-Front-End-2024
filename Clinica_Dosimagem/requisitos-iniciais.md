@@ -7,7 +7,8 @@
 **RF01**: O sistema deve ter uma area que dedicada a organizar os 4 tipos de formulários(Calibrations, Clinic Dosimetries, Preclinic Dosimetries, Radiosymoviorthesis), de forma a descomplicar a navegação. <br>
 **RF02**: Atualização do andamento do pedido ->Em análise -> Sendo processado -> Concluído. <br>
 **RF03**: Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02).
-
+## Requisitos não Funcionais:
+**RNF01**: O sistema precisa ser feito para utilizar a api ja existente da Dosimagem.
 
 Professor falou que devemos mostar o que cada botão deve fazer, o que acham?: <br>
  **RF1**. O sistema deve ter interface de usuário intuitiva:<br>
