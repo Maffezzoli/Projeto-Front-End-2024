@@ -1,6 +1,6 @@
 ## Requisitos em linguagem natural
 - O sistema deve ser simples a ponto que funcionários inexperientes possam operá-lo.
-- Interface amigável e intuitiva.
+- Interface amigável, intuitiva e sem poluição visual.
 - O sistema deve permitir que os funcionários visualizem os formulários enviados pelos clientes por meio da aba "service".
 - Os funcionários devem poder baixar as imagens enviadas pelo cliente, em formato de pdf.
 - O sistema deve ser capaz de enviar o laudo da imagem tratada para o cliente.
