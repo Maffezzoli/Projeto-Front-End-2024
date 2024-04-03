@@ -11,7 +11,7 @@
   facilitando o acesso e a manipulação desses documentos para futuras referências ou ações.
 ## Requisitos Funcionais:
 **RF01**:  O sistema deve incluir uma área dedicada para organizar os quatro tipos de formulários: Calibrations, Clinic Dosimetries, Preclinic Dosimetries e Radiosynoviorthesis. Essa organização visa simplificar a navegação e facilitar o acesso aos formulários relevantes para os usuários. <br>
-**RF02**:  O sistema deve permitir a atualização do andamento do pedido em três estados distintos: "Em análise", "Sendo processado" e "Concluído". Essa funcionalidade visa fornecer uma visão clara do progresso de cada pedido dentro do sistema. <br>
+**RF02**: O sistema deve permitir a atualização do andamento do pedido em três estados distintos: "Não Iniciado", "Não Concluído" e "Concluído". Essa funcionalidade visa fornecer uma visão clara do progresso de cada pedido dentro do sistema. <br>
 **RF03**:  Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02).<br>
 **RF04**:  O sistema deve ser capaz de catalogar e armazenar todas as modificações realizadas nos formulários e em outras instâncias da API. Isso inclui, mas não se limita a, alterações nos dados dos formulários, criação ou exclusão de registros, e quaisquer outras interações relevantes.
 ## Requisitos não Funcionais:
