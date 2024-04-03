@@ -1,7 +1,43 @@
-- O que é -> Propósito do projeto
-- A história do projeto -> Passo a passo do processo, reuniões, como nos organizamos etc.
-- O que temos
-  - Protótipo de telas (Por exemplo, com FIGMA)
-- Equipe NoCodeBrothers: André Costa, Caio Medeiros, Daniel Maffezzoli e Raí Lamper.
+# Equipe NoCode Brothers:
 
-- Historia: Nós, NoCodeBrothers começamos esse projeto a um mês, após uma reunião com a equipe da Dosimagem, começamos nosso trabalho de ajuda-los a melhorar. Com o objetivo de corrigir os erros em seu sistema criamos repositórios no GitHub para organizar nossas ideias. Em um grupo de WhatsApp mantivemos contato, nele debatemos sobre o Entendimento Inicial, Requisitos Iniciais e os Casos de Uso do projeto. Assim contribuindo positivamente com o desenvolvimento da Clinica Dosimagem. 
+- **Daniel Maffezzoli**  
+  - Ciências de Dados e I.A - 2º Período  
+
+- **André Costa**  
+  - Engenharia de Computação - 5º Período  
+
+- **Caio Medeiros**  
+  - Engenharia de Computação - 4º Período  
+
+- **Raí Lamper**  
+  - Análise e Desenvolvimento de Sistemas - 1º Período  
+
+## O que é o Projeto?
+
+Remodelação da interface gráfica para torná-la mais intuitiva e amigável para usuários não técnicos.
+
+## A História do Projeto 
+
+- **APRESENTAÇÃO DO PROJETO:**  
+  Neste encontro o professor nos apresentou ao projeto.
+
+- **ENTREVISTA COM A EQUIPE DOSIMAGEM:**  
+  Foi feita uma reunião com a equipe da clínica.
+
+- **ENTENDIMENTO INICIAL (5W2H):**  
+  Nos reunimos para discutir o que entendemos sobre o projeto e o sistema.
+
+- **LISTAGEM DE REQUISITOS:**  
+  Listamos os requisitos funcionais e não funcionais do sistema.
+
+- **CASOS DE USO DO SISTEMA:**  
+  Definimos uma sequência de ações executadas pelo sistema que geram um resultado de valor observável para um ator em particular.
+
+## O que temos?
+
+Conteúdo disponível: 
+
+- Entendimento inicial do funcionamento do sistema;
+- Transformamos em ações práticas toda a análise e a formulação de estratégias idealizadas para o plano de ação (5W2H).
+- Descrições dos serviços fornecidos pelo sistema e as suas restrições operacionais - Lista de requisitos.
+- Capturamos o comportamento requerido do sistema a partir da perspectiva do usuário final na busca de atingir uma ou mais metas desejadas.
