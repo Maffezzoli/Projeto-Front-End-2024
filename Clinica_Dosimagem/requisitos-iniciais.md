@@ -1,25 +1,18 @@
 ## Requisitos em linguagem natural
-- O sistema deve ser simples a ponto que funcionários inexperientes possam operá-lo.
-- Interface amigável e intuitiva.
-- O sistema deve permitir que os funcionários visualizem os formulários enviados pelos clientes por meio da aba "service".
-- Os funcionários devem poder baixar as imagens enviadas pelo cliente, em formato de pdf.
-- O sistema deve ser capaz de enviar o laudo da imagem tratada para o cliente.
+- O sistema deve ser fácil de usar, para que até mesmo funcionários
+   inexperientes possam operá-lo com facilidade.
+- A interface do sistema deve ser amigável e intuitiva,
+   proporcionando uma experiência agradável ao usuário.
+- Os funcionários devem poder acessar os formulários enviados pelos clientes através da aba "Serviço",
+  facilitando o gerenciamento e acompanhamento das solicitações.
+-  Deve haver uma funcionalidade de "Histórico de Ações" que permita aos funcionários visualizarem as modificações realizadas no sistema,
+   oferecendo transparência e rastreabilidade das atividades realizadas.
+- Os funcionários devem ter a capacidade de baixar as imagens enviadas pelos clientes em formato PDF,
+  facilitando o acesso e a manipulação desses documentos para futuras referências ou ações.
 ## Requisitos Funcionais:
-**RF01**: O sistema deve ter uma area que dedicada a organizar os 4 tipos de formulários(Calibrations, Clinic Dosimetries, Preclinic Dosimetries, Radiosymoviorthesis), de forma a descomplicar a navegação. <br>
-**RF02**: Atualização do andamento do pedido ->Em análise -> Sendo processado -> Concluído. <br>
-**RF03**: Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02).
-
-
-Professor falou que devemos mostar o que cada botão deve fazer, o que acham?: <br>
- **RF1**. O sistema deve ter interface de usuário intuitiva:<br>
- **RF1.1.** Ao entrar no site, você estará no "Menu", no canto superior esquerdo da tela vai ter a logo da Dosimagem, ao mesmo tempo que a sua direita deve ter um total de 7 botões alinhados cada um com sua respectiva função.<br>
-         **HOME**: Deverá levar o usuário ao menu do site, na qual mostra depoimentos, parcerias e mídias sociais da Dosimagem.<br>
-         **SERVIÇOS**: Deve levar o usuário à todos os serviços oferecidos pela Dosimagem, além disso, cada serviço devera ter um opção de contratar serviço, assim mostrando as informações do serviço em questão, informação de entrega, política de reembolso e custos.<br>
-         **Planos**: Todos os planos oferecidos pela Dosimagem dever ser mostrados junto com uma opção de assinar plano.<br>
-         **Artigos**: Leva para uma página onde mostra todos os artigos produzidos pela Dosimagem<br>
-         **Suporte**: Você ira colocar suas informaçoes(nome, telefone, email, assunto, clínica e mensagem), essas informações seram enviadas para o suporte da Dosimagem, que auxiliaram o usuario com seus problemas.<br>
-         **Sobre**: Todas as informações sobre a Dosimagem devem ser mostradas: Equipe: ceo, cto, marketing, desenvolvedores e assistente administrativa, como funciona, por quer a dosimagem e o objetvio da dosimagem<br>
-         **Blog**: Levará para o Blog oficial da Dosimagem.<br>
-      RF1.2. No canto superior direito da tela deverá ter 3 botões, um de Login, para logar na sua conta, um de Cadastro para você criar sua conta e um de línguas, onde você pode alterar a língua que está sendo utilizada(as opções são: Português, Inglês e Espanhol).<br>
-         **Login**: O usuário ira colocar os seguintes dados: Email e Senha da sua conta.<br>
-         **Cadastro**: O usuário ira colocar os seguintes dados: Clínica, CNPJ, Nome Completo, CPF, Telefone, Cargo, Email, Confirme seu Email, Senha e Confirme sua Senha. 
+**RF01**:  O sistema deve incluir uma área dedicada para organizar os quatro tipos de formulários: Calibrations, Clinic Dosimetries, Preclinic Dosimetries e Radiosynoviorthesis. Essa organização visa simplificar a navegação e facilitar o acesso aos formulários relevantes para os usuários. <br>
+**RF02**: O sistema deve permitir a atualização do andamento do pedido em três estados distintos: "Não Iniciado", "Não Concluído" e "Concluído". Essa funcionalidade visa fornecer uma visão clara do progresso de cada pedido dentro do sistema. <br>
+**RF03**:  Interface acoplada na área de análise dos formulários para atualização do andamento do pedido (RF02).<br>
+**RF04**:  O sistema deve ser capaz de catalogar e armazenar todas as modificações realizadas nos formulários e em outras instâncias da API. Isso inclui, mas não se limita a, alterações nos dados dos formulários, criação ou exclusão de registros, e quaisquer outras interações relevantes.
+## Requisitos não Funcionais:
+**RNF01**:  O sistema deve ser desenvolvido para utilizar a API existente da Dosimagem, integrando-se de forma eficaz para aproveitar as funcionalidades e dados disponíveis nessa API.
